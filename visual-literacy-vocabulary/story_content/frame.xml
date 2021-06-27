@@ -1217,6 +1217,7 @@
       <string id="acc_search_input">search</string>
       <string id="search_toggle">Search</string>
       <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
       <string id="desktop_start">Start Course</string>
       <string id="mobile_start">Start Course</string>
       <string id="acc_visited">visited</string>
